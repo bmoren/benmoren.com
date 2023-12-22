@@ -1,0 +1,30 @@
+<%
+
+ //include all vimeo videos from front matter
+
+ //CONSIDER CHANGING THIS TO FULL ARRAYS USING THE FRONTMATTER LIST MD ARRAY CONVERSION FEATURE!
+
+
+if(page.youtube != null){
+  // console.log(page.vimeo)
+
+  // let videos = page.vimeo.toString().split(',');
+
+  let videos = page.youtube
+
+
+    videos.forEach(function(video,i){
+    // console.log(i,video)
+%>
+
+  <div>
+    <iframe  src="https://www.youtube.com/embed/<%= video%>?modestbranding=1&rel=0&color=white" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+<%
+    })
+  }
+%>
+
+
+
+

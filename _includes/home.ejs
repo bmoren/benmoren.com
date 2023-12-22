@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <%- include('partials/meta') %>
+
+  <title><%= site.title %></title>
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="/css/home.css">
+
+</head>
+<body>
+  <header>
+    <h1><a href="/"><%= site.title %></a></h1>
+  </header>
+
+
+
+<section class="grid-parent">
+
+    <%
+    // console.log('%!%! HOME template loaded %!%!')
+    // console.log(pages)
+
+    let sections = []
+    let endOfPath, path, filename, extension
+
+    //build the sections array
+    pages.forEach(function(page){
+
+      //if the page is inside the root dir
+      if(page.parent === '/'){
+
+        //store the entire page object for later reference
+        //this basically makes a micro version of pages/pageDefs for just the sections, this is useful so we dont have to do a bunch of looping and looking up later on.
+        sections.push(page)
+
+      } //close parent check
+    }) // close pages loop
+    // console.log(sections)
+
+    //loop through the sections array and find the pages that go under each section
+    sections.forEach(function(section){
+
+      if(section.visibility != 'hidden'){
+
+      %>
+
+        <h1 class="section-title"> <%= section.title %> </h1>
+
+      <%
+
+      } // close visibility check
+
+      //loop the pages and look up children of the section
+      pages.forEach(function(page){
+        
+        if(page.visibility != 'hidden'){
+
+          if(page.parent === section.url){
+            //we've found a child of this page
+
+
+            if(page.media[0] != undefined){ //get rid of this later once there are thumbs for everything!
+              //these variables are lofted into the global scope for EJS
+              endOfPath = page.media[0].lastIndexOf('/')
+              path = page.media[0].substring(0,endOfPath)
+
+              filename = page.media[0].split('/').pop().split('.')[0];
+              // extension = page.media[0].split('/').pop().split('.')[1];
+              extension = 'webp'
+
+                
+            }
+
+
+          %>
+
+            <div>
+              <a href="<%= page.url %>">
+
+                <!-- could also just load one this way? <img class="thumb" src="<%= page.media[0]  %>" alt="<%= page.title %>"> -->
+
+
+
+                  <img class="thumb"
+
+                  src="<%= page.media[0] %>"
+
+                  srcset="<%=`${path}/srcset/${filename}-w2000.${extension} 2000w,
+                  ${path}/srcset/${filename}-w1000.${extension} 1000w,
+                  ${path}/srcset/${filename}-w500.${extension} 500w`%>"
+
+                  sizes="(min-width: 768px) 25vw, 100vw"
+
+                  />
+
+                 <p><%= page.title %></p>
+              </a>
+            </div>
+
+          <%
+          } //close parent/child check
+        } // close visibility check
+      }) // close pages loop
+    }) // close sections loop
+    %>
+
+</section>
+<!--
+    <%- body %>
+-->
+
+<p class="contact">
+  <a href="/information">information</a>
+</p>
+  <%- include('partials/footer') %>
+</body>
+</html>
