@@ -30,7 +30,7 @@
 
 
 <!-- should prob implement this at some point... -->
-<!-- <link rel="icon" sizes="192x192" href="/path/to/icon.png"> -->
+<!-- <link rel="icon" sizes="192x192" href="path/to/icon.png"> -->
 
 <link rel="preconnect" href="https://player.vimeo.com"> 
 <link rel="preconnect" href="https://i.vimeocdn.com">
@@ -80,11 +80,11 @@
 
 
 
-  <meta property="og:image" content="/environments/breathing-wilderness/srcset/Still004-w2000.webp">
+  <meta property="og:image" content="environments/breathing-wilderness/srcset/Still004-w2000.webp">
 
 
 
-  <meta property="og:image" content="/srcset/favicon-w2000.webp">
+  <meta property="og:image" content="srcset/favicon-w2000.webp">
   
 
 
@@ -153,7 +153,7 @@
             <div>
               <a href="../../environments/breathing-wilderness/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/breathing-wilderness/Still004.jpg" alt="Breathing Wilderness"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/breathing-wilderness/Still004.jpg" alt="Breathing Wilderness"> -->
 
 
 
@@ -178,7 +178,7 @@
             <div>
               <a href="../../environments/rhyolite-listener/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/rhyolite-listener/Moren_focus_stack.jpg" alt="Rhyolite Listener"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/rhyolite-listener/Moren_focus_stack.jpg" alt="Rhyolite Listener"> -->
 
 
 
@@ -203,7 +203,7 @@
             <div>
               <a href="../../environments/reference-ecosystem-lost40/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/reference-ecosystem-lost40/img000000015.jpg" alt="Reference Ecosystem: Lost 40"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/reference-ecosystem-lost40/img000000015.jpg" alt="Reference Ecosystem: Lost 40"> -->
 
 
 
@@ -228,7 +228,7 @@
             <div>
               <a href="../../environments/singing-ice/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/singing-ice/1si-front.jpg" alt="Singing Ice"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/singing-ice/1si-front.jpg" alt="Singing Ice"> -->
 
 
 
@@ -253,7 +253,7 @@
             <div>
               <a href="../../environments/wave-machine/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/wave-machine/MOren_DSC3039.jpg" alt="Wave Machine"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/wave-machine/MOren_DSC3039.jpg" alt="Wave Machine"> -->
 
 
 
@@ -278,7 +278,7 @@
             <div>
               <a href="../../environments/horizon/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/horizon/still001.jpg" alt="Horizon (Burntside)"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/horizon/still001.jpg" alt="Horizon (Burntside)"> -->
 
 
 
@@ -303,7 +303,7 @@
             <div>
               <a href="../../environments/white-oak-listener/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/white-oak-listener/Moren_DSC2976.jpg" alt="White Oak Listener"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/white-oak-listener/Moren_DSC2976.jpg" alt="White Oak Listener"> -->
 
 
 
@@ -328,7 +328,7 @@
             <div>
               <a href="../../environments/reformed-topographies/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/reformed-topographies/P1260206.jpg" alt="Reformed Topographies"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/reformed-topographies/P1260206.jpg" alt="Reformed Topographies"> -->
 
 
 
@@ -353,7 +353,7 @@
             <div>
               <a href="../../environments/clonal-colony/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/clonal-colony/Moren_Ben_DSC9051.jpg" alt="Clonal Colony"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/clonal-colony/Moren_Ben_DSC9051.jpg" alt="Clonal Colony"> -->
 
 
 
@@ -378,7 +378,7 @@
             <div>
               <a href="../../environments/a-world-we-made/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/a-world-we-made/P1030564.jpg" alt="A World We Made"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/a-world-we-made/P1030564.jpg" alt="A World We Made"> -->
 
 
 
@@ -403,7 +403,7 @@
             <div>
               <a href="../../environments/aspen-stands/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/aspen-stands/winter_ajax_2.jpg" alt="Aspen Stands"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/aspen-stands/winter_ajax_2.jpg" alt="Aspen Stands"> -->
 
 
 
@@ -428,7 +428,7 @@
             <div>
               <a href="../../environments/carbon-copy/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/carbon-copy/1.png" alt="Carbon Copy"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/carbon-copy/1.png" alt="Carbon Copy"> -->
 
 
 
@@ -453,7 +453,7 @@
             <div>
               <a href="../../environments/green-screen/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/green-screen/1.jpg" alt="Green Screen"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/green-screen/1.jpg" alt="Green Screen"> -->
 
 
 
@@ -478,7 +478,7 @@
             <div>
               <a href="../../environments/hotel-hotel/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/hotel-hotel/IMG_6634.jpg" alt="HOTEL HOTEL"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/hotel-hotel/IMG_6634.jpg" alt="HOTEL HOTEL"> -->
 
 
 
@@ -503,7 +503,7 @@
             <div>
               <a href="../../environments/luma/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/luma/luma1.png" alt="Luma"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/luma/luma1.png" alt="Luma"> -->
 
 
 
@@ -528,7 +528,7 @@
             <div>
               <a href="../../environments/pedesis-studies/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/pedesis-studies/P1030478.jpg" alt="Pedesis Studies"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/pedesis-studies/P1030478.jpg" alt="Pedesis Studies"> -->
 
 
 
@@ -553,7 +553,7 @@
             <div>
               <a href="../../environments/sonic-articulation-of-sunbeams/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/sonic-articulation-of-sunbeams/IMG_5858.jpg" alt="Sonic Articulation of Sunbeams"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/sonic-articulation-of-sunbeams/IMG_5858.jpg" alt="Sonic Articulation of Sunbeams"> -->
 
 
 
@@ -578,7 +578,7 @@
             <div>
               <a href="../../environments/stockpile/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/stockpile/P1030496.jpg" alt="Stockpile"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/stockpile/P1030496.jpg" alt="Stockpile"> -->
 
 
 
@@ -603,7 +603,7 @@
             <div>
               <a href="../../environments/watercourse/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/watercourse/P1250398.jpg" alt="Watercourse"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/watercourse/P1250398.jpg" alt="Watercourse"> -->
 
 
 
@@ -628,7 +628,7 @@
             <div>
               <a href="../../environments/wave-sinecosine-book/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/environments/wave-sinecosine-book/P1240201.jpg" alt="Wave (sine/cosine)"> -->
+                <!-- could also just load one this way? <img class="thumb" src="environments/wave-sinecosine-book/P1240201.jpg" alt="Wave (sine/cosine)"> -->
 
 
 
@@ -657,7 +657,7 @@
             <div>
               <a href="../floating-position-overview/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/body-positions/floating-position-overview/DSC00010.jpg" alt="Floating Position (Overview)"> -->
+                <!-- could also just load one this way? <img class="thumb" src="body-positions/floating-position-overview/DSC00010.jpg" alt="Floating Position (Overview)"> -->
 
 
 
@@ -682,7 +682,7 @@
             <div>
               <a href="../river-suspension-analysis/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/body-positions/river-suspension-analysis/rsa_ali_bridge_documentation.jpg" alt="River Suspension (Analysis)"> -->
+                <!-- could also just load one this way? <img class="thumb" src="body-positions/river-suspension-analysis/rsa_ali_bridge_documentation.jpg" alt="River Suspension (Analysis)"> -->
 
 
 
@@ -707,7 +707,7 @@
             <div>
               <a href="index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/body-positions/walking-cycle/Taylors_Falls_NOV.jpg" alt="Walking Cycle"> -->
+                <!-- could also just load one this way? <img class="thumb" src="body-positions/walking-cycle/Taylors_Falls_NOV.jpg" alt="Walking Cycle"> -->
 
 
 
@@ -732,7 +732,7 @@
             <div>
               <a href="../ag-suil-anuas-ar-cappagh-na-mhalla/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/body-positions/ag-suil-anuas-ar-cappagh-na-mhalla/1.png" alt="Ag Súil Anuas Ar Cappagh Na Mhalla | Walking down Cappanawalla"> -->
+                <!-- could also just load one this way? <img class="thumb" src="body-positions/ag-suil-anuas-ar-cappagh-na-mhalla/1.png" alt="Ag Súil Anuas Ar Cappagh Na Mhalla | Walking down Cappanawalla"> -->
 
 
 
@@ -757,7 +757,7 @@
             <div>
               <a href="../breathing-exercise/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/body-positions/breathing-exercise/breathing-exercise-1.jpg" alt="Breathing Exercise, First Position / Second Position"> -->
+                <!-- could also just load one this way? <img class="thumb" src="body-positions/breathing-exercise/breathing-exercise-1.jpg" alt="Breathing Exercise, First Position / Second Position"> -->
 
 
 
@@ -782,7 +782,7 @@
             <div>
               <a href="../floating-position/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/body-positions/floating-position/1.png" alt="Floating Position"> -->
+                <!-- could also just load one this way? <img class="thumb" src="body-positions/floating-position/1.png" alt="Floating Position"> -->
 
 
 
@@ -807,7 +807,7 @@
             <div>
               <a href="../footprint-in-footprints/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/body-positions/footprint-in-footprints/IMG_2538.jpg" alt="Footprint in Footprints"> -->
+                <!-- could also just load one this way? <img class="thumb" src="body-positions/footprint-in-footprints/IMG_2538.jpg" alt="Footprint in Footprints"> -->
 
 
 
@@ -832,7 +832,7 @@
             <div>
               <a href="../hidden/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/body-positions/hidden/1.png" alt="Hidden"> -->
+                <!-- could also just load one this way? <img class="thumb" src="body-positions/hidden/1.png" alt="Hidden"> -->
 
 
 
@@ -857,7 +857,7 @@
             <div>
               <a href="../perpetual-check/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/body-positions/perpetual-check/IMG_9848.jpg" alt="Perpetual Check"> -->
+                <!-- could also just load one this way? <img class="thumb" src="body-positions/perpetual-check/IMG_9848.jpg" alt="Perpetual Check"> -->
 
 
 
@@ -882,7 +882,7 @@
             <div>
               <a href="../river-suspension/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/body-positions/river-suspension/IMG_9849.jpg" alt="River Suspension"> -->
+                <!-- could also just load one this way? <img class="thumb" src="body-positions/river-suspension/IMG_9849.jpg" alt="River Suspension"> -->
 
 
 
@@ -911,7 +911,7 @@
             <div>
               <a href="../../mobile-experiential-cinema/the-parade/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/mobile-experiential-cinema/the-parade/IMG_8901.jpg" alt="The Parade"> -->
+                <!-- could also just load one this way? <img class="thumb" src="mobile-experiential-cinema/the-parade/IMG_8901.jpg" alt="The Parade"> -->
 
 
 
@@ -936,7 +936,7 @@
             <div>
               <a href="../../mobile-experiential-cinema/second-bridge/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/mobile-experiential-cinema/second-bridge/IMG_3867.jpg" alt="Second Bridge is Wider, But Not Wide Enough"> -->
+                <!-- could also just load one this way? <img class="thumb" src="mobile-experiential-cinema/second-bridge/IMG_3867.jpg" alt="Second Bridge is Wider, But Not Wide Enough"> -->
 
 
 
@@ -961,7 +961,7 @@
             <div>
               <a href="../../mobile-experiential-cinema/secret-city/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/mobile-experiential-cinema/secret-city/MG_2211.jpg" alt="Secret City"> -->
+                <!-- could also just load one this way? <img class="thumb" src="mobile-experiential-cinema/secret-city/MG_2211.jpg" alt="Secret City"> -->
 
 
 
@@ -986,7 +986,7 @@
             <div>
               <a href="../../mobile-experiential-cinema/kulturpark/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/mobile-experiential-cinema/kulturpark/IMG_8539.jpg" alt="Kulturpark"> -->
+                <!-- could also just load one this way? <img class="thumb" src="mobile-experiential-cinema/kulturpark/IMG_8539.jpg" alt="Kulturpark"> -->
 
 
 
@@ -1011,7 +1011,7 @@
             <div>
               <a href="../../mobile-experiential-cinema/can-you-see-it/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/mobile-experiential-cinema/can-you-see-it/11x17version_NOFULLBLEED.jpg" alt="Can you see it?"> -->
+                <!-- could also just load one this way? <img class="thumb" src="mobile-experiential-cinema/can-you-see-it/11x17version_NOFULLBLEED.jpg" alt="Can you see it?"> -->
 
 
 
@@ -1036,7 +1036,7 @@
             <div>
               <a href="../../mobile-experiential-cinema/untitled-selections-from-the-permanent-collection-2013/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/mobile-experiential-cinema/untitled-selections-from-the-permanent-collection-2013/DSC03517.jpg" alt="Untitled (Selections From The Permanent Collection), 2013"> -->
+                <!-- could also just load one this way? <img class="thumb" src="mobile-experiential-cinema/untitled-selections-from-the-permanent-collection-2013/DSC03517.jpg" alt="Untitled (Selections From The Permanent Collection), 2013"> -->
 
 
 
@@ -1065,7 +1065,7 @@
             <div>
               <a href="../../screen/collective-action/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/screen/collective-action/sara-fowler-ben-moren-and-tyler-stefanich-collective-action_36052368565_o.jpg" alt="Collective Action!"> -->
+                <!-- could also just load one this way? <img class="thumb" src="screen/collective-action/sara-fowler-ben-moren-and-tyler-stefanich-collective-action_36052368565_o.jpg" alt="Collective Action!"> -->
 
 
 
@@ -1090,7 +1090,7 @@
             <div>
               <a href="../../screen/game-grid/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/screen/game-grid/P1020224.jpg" alt="Game Grid"> -->
+                <!-- could also just load one this way? <img class="thumb" src="screen/game-grid/P1020224.jpg" alt="Game Grid"> -->
 
 
 
@@ -1115,7 +1115,7 @@
             <div>
               <a href="../../screen/drawing-garden/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/screen/drawing-garden/0-dg.png" alt="drawing.garden"> -->
+                <!-- could also just load one this way? <img class="thumb" src="screen/drawing-garden/0-dg.png" alt="drawing.garden"> -->
 
 
 
@@ -1140,7 +1140,7 @@
             <div>
               <a href="../../screen/dead-drop-io/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/screen/dead-drop-io/dd_01_edited.png" alt="dead-drop.io"> -->
+                <!-- could also just load one this way? <img class="thumb" src="screen/dead-drop-io/dd_01_edited.png" alt="dead-drop.io"> -->
 
 
 
@@ -1165,7 +1165,7 @@
             <div>
               <a href="../../screen/spatial-strategies/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/screen/spatial-strategies/P1040908.jpg" alt="Spatial Strategies"> -->
+                <!-- could also just load one this way? <img class="thumb" src="screen/spatial-strategies/P1040908.jpg" alt="Spatial Strategies"> -->
 
 
 
@@ -1194,7 +1194,7 @@
             <div>
               <a href="../../curatorial-projects/stream-capture/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/curatorial-projects/stream-capture/stream_32.jpg" alt="Stream Capture"> -->
+                <!-- could also just load one this way? <img class="thumb" src="curatorial-projects/stream-capture/stream_32.jpg" alt="Stream Capture"> -->
 
 
 
@@ -1219,7 +1219,7 @@
             <div>
               <a href="../../curatorial-projects/wzfr/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/curatorial-projects/wzfr/P1250221.jpg" alt="WZFR"> -->
+                <!-- could also just load one this way? <img class="thumb" src="curatorial-projects/wzfr/P1250221.jpg" alt="WZFR"> -->
 
 
 
@@ -1244,7 +1244,7 @@
             <div>
               <a href="../../curatorial-projects/rose-colored-glass/index.html">
 
-                <!-- could also just load one this way? <img class="thumb" src="/curatorial-projects/rose-colored-glass/IMG_9152.jpg" alt="Rose Colored Glass"> -->
+                <!-- could also just load one this way? <img class="thumb" src="curatorial-projects/rose-colored-glass/IMG_9152.jpg" alt="Rose Colored Glass"> -->
 
 
 
