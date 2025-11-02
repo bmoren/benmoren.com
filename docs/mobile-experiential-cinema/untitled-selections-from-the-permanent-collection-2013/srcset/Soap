@@ -3,7 +3,7 @@
 <head>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37160070-1"></script>
+<script async src="httpss://www.googletagmanager.com/gtag/js?id=UA-37160070-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -19,7 +19,7 @@
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u="https://analytics.benmoren.com/";
+    var u="httpss://analytics.benmoren.com/";
     _paq.push(['setTrackerUrl', u+'matomo.php']);
     _paq.push(['setSiteId', '1']);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
@@ -32,13 +32,13 @@
 <!-- should prob implement this at some point... -->
 <!-- <link rel="icon" sizes="192x192" href="/path/to/icon.png"> -->
 
-<link rel="preconnect" href="https://player.vimeo.com"> 
-<link rel="preconnect" href="https://i.vimeocdn.com">
-<link rel="preconnect" href="https://f.vimeocdn.com">
+<link rel="preconnect" href="httpss://player.vimeo.com"> 
+<link rel="preconnect" href="httpss://i.vimeocdn.com">
+<link rel="preconnect" href="httpss://f.vimeocdn.com">
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta https-equiv="X-UA-Compatible" content="ie=edge">
 
 <!-- Control the behavior of search engine crawling and indexing -->
 <meta name="robots" content="index,follow"><!-- All Search Engines -->
@@ -52,8 +52,8 @@
 
 <meta property="og:locale" content="en_US">
 
-<meta property="og:url" content="https://benmoren.com">
-<meta name="twitter:url" content="https://benmoren.com">
+<meta property="og:url" content="httpss://benmoren.com">
+<meta name="twitter:url" content="httpss://benmoren.com">
 
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
@@ -96,7 +96,7 @@
 </head>
 <body>
   <header>
-    <h1><a href="http://benmoren.com">Ben Moren</a></h1>
+    <h1><a href="https://benmoren.com">Ben Moren</a></h1>
   </header>
 
 
@@ -108,15 +108,15 @@
         <h1 class="section-title"> Environments, 2013 – </h1>
 
         <div>
-          <a href="http://benmoren.comhttp://benmoren.com/environments/chamisa-geigercounter">
+          <a href="https://benmoren.comhttps://benmoren.com/environments/chamisa-geigercounter">
 
               <img class="thumb"
 
-              src="../../..http://benmoren.com/environments/chamisa-geigercounter/_DSC0322.jpg"
+              src="../../..https://benmoren.com/environments/chamisa-geigercounter/_DSC0322.jpg"
 
-              srcset="../../..http://benmoren.com/environments/chamisa-geigercounter/srcset/_DSC0322-w2000.webp 2000w,
-             ../../..http://benmoren.com/environments/chamisa-geigercounter/srcset/_DSC0322-w1000.webp 1000w,
-            ../../..http://benmoren.com/environments/chamisa-geigercounter/srcset/_DSC0322-w500.webp 500w"
+              srcset="../../..https://benmoren.com/environments/chamisa-geigercounter/srcset/_DSC0322-w2000.webp 2000w,
+             ../../..https://benmoren.com/environments/chamisa-geigercounter/srcset/_DSC0322-w1000.webp 1000w,
+            ../../..https://benmoren.com/environments/chamisa-geigercounter/srcset/_DSC0322-w500.webp 500w"
 
               sizes="(min-width: 768px) 75vw, 100vw"
       
@@ -1272,7 +1272,7 @@
 -->
 
 <p class="contact">
-  <a href="http://benmoren.com/information">information</a>
+  <a href="https://benmoren.com/information">information</a>
 </p>
   
 </body>
