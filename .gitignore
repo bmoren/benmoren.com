@@ -39,3 +39,7 @@ node_modules
 # System
 .DS_Store
 
+CLAUDE.md
+
+.claude
+
